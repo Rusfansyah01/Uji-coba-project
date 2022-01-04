@@ -5,3 +5,156 @@
     margin: none;
 
 }
+body{
+    background: linear-gradient(to right,rgb(26, 248, 111), rgb(123, 27, 248));
+}
+.data_login{
+    background:white;
+    width: 20%;
+    height: 600px;
+    margin-left: 40%;
+    margin-top: 9% ;
+    border-radius: 20px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.data_login-user{
+    background:  linear-gradient(to left,rgb(26, 248, 111), rgb(123, 27, 248));
+    width: 95%;
+    height: 97.5%;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+}
+.input-login{
+    margin-top: 5rem;
+    text-align: center;
+    line-height: 3rem;
+}
+.input-login i{
+    color: white;
+    font-size: 1.1rem;
+}
+.input-login-1 i{
+    color: white;
+    font-size: 1.1rem;
+}
+.input-login .data{
+    width: 80%;
+    height: 2rem;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+}
+.input-login-1{
+    text-align: center;
+    line-height: 3rem;
+    border: none;
+}
+.input-login-1 .data{
+    width: 80%;
+    height: 2rem;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-size: 1rem;
+}
+
+p{
+    text-align: center;
+    color: white;
+}
+.sosial_media{
+    text-align: center;
+}
+.btn-solid{
+    background: linear-gradient(to left,rgb(123, 27, 248), rgb(26, 248, 111));
+    color: white;
+    border: none;
+    width: 40%;
+    height: 40px;
+    align-items: center;
+    font-size: 1rem;
+    border-radius: 20px;
+    margin-left: 30%;
+    margin-top: 30px;
+    cursor: pointer;
+}
+.btn-solid:hover{
+    background: white;
+    color: rgb(50, 155, 141);
+}
+.sosial-media-text-login{
+    margin-top: 3rem;
+}
+.sosial-media{
+    text-align: center;
+    font-size: 1.25rem;
+    cursor: pointer;
+    
+}
+
+.fa-facebook-f{
+    margin-right: 10px;
+    color: blue;
+    background: white;
+    width: 30px;
+    height: 24px;
+    padding-top: 6px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.fa-facebook-f:hover{
+    color: white;
+    background: blue; 
+}
+.fa-google {
+    margin-right: 10px;
+    color: rgb(255, 27, 72);
+    background: white;
+    width: 30px;
+    height: 24px;
+    padding-top: 6px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.fa-google:hover{
+    color: white;
+    background: rgb(255, 27, 72); 
+}
+.fa-twitter {
+    margin-right: 10px;
+    color: rgb(29, 220, 253);
+    background: white;
+    width: 30px;
+    height: 24px;
+    padding-top: 6px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.fa-twitter:hover{
+    color: white;
+    background: rgb(29, 220, 253);
+}
+.fa-linkedin{
+    color: rgb(0, 255, 55);
+    background: white;
+    width: 30px;
+    height: 24px;
+    padding-top: 6px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.fa-linkedin:hover{
+    color: white;
+    background: rgb(0, 255, 55);
+}
